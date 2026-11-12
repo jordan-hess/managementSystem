@@ -1,0 +1,7 @@
+Dockerfile
+kubernetes
+.version
+.gitlab-ci.yml
+.git
+.gitignore
+.env*
